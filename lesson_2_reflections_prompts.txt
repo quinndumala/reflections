@@ -17,3 +17,5 @@ How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 They're terrific quite honestly. They help a lot.
+
+Just did automatic and manual merging, really cool I'm having so much fun.
