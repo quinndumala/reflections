@@ -12,3 +12,6 @@ repository. branches are like paths that 'branch' from your master path or branc
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 you can trace the state of the parent commit.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what 
+would be harder?
